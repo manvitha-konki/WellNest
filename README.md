@@ -107,8 +107,11 @@ Always return as a numbered list. Each line should start with an emoji, then a s
 
  - ChatBot
   <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/c7f82920-2ae8-4dd7-aaae-a32055d9953a" />
+
+
   
-**Screen Recording Video:**
+### **Screen Recording Video:**
+
 [https://drive.google.com/file/d/12z1YJ83Q0pkM8GWpdbc5oE3f5YkYyW9o/view?usp=sharing](url)
 
 ---
@@ -124,3 +127,13 @@ Always return as a numbered list. Each line should start with an emoji, then a s
 - Full Dark Mode support.
 - Deploy backend to Railway/Render for hosted API.
 - Use Firebase/MongoDB for persistent saved tips.
+
+---
+
+## Tech Stack
+
+- Frontend: React (Vite) + TailwindCSS
+- Backend: Node.js + Express + CORS
+- AI: Google Gemini API
+- Storage: LocalStorage
+  
