@@ -86,7 +86,7 @@ Always return as a numbered list. Each line should start with an emoji, then a s
 
 ## Screenshots / Screen Recording
 
--Login Page 
+- Login Page 
   <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/24aa48d2-b492-4e69-9771-74ab9ebc13c0" />
 
 - Profile Screen – User inputs (age, gender, goal).
